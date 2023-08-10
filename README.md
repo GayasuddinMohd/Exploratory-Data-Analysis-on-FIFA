@@ -32,3 +32,25 @@ This repository is about EDA performed on FIFA dataset.
 * Cristiano Ronaldo is the best shooter in the world.
 * G. Chiellini is the best defender in the world.
 * De Gea has the best reflexes in the world.
+
+# Skills  
+* Python
+* Numpy
+* Pandas
+* Matplotlib
+* Seaborn
+* Plotly
+* Jupyter Notebok
+* Kaggle
+* Statistics
+
+# Dataset
+* You can download the dataset from the kaggle website.
+* https://www.kaggle.com/datasets/stefanoleone992/fifa-20-complete-player-dataset?select=players_20.csv
+
+
+
+
+
+
+
