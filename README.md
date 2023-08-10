@@ -1,2 +1,2 @@
-# Exploratory-data-analysis-on-FIFA-Dataset
-This is the detailed exploratory data analysis on FIFA  Dataset, with simple and beautiful visualizations.
+![Image Alt Text](https://github.com/GayasuddinMohd/Exploratory-Data-Analysis-on-IPL/blob/main/ipl.jpg?raw=true)
+
