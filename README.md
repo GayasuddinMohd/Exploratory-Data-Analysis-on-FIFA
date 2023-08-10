@@ -1,2 +1,2 @@
-![Image Alt Text](https://github.com/GayasuddinMohd/Exploratory-Data-Analysis-on-IPL/blob/main/ipl.jpg?raw=true)
+![Image Alt Text](https://github.com/GayasuddinMohd/Exploratory-Data-Analysis-on-FIFA/blob/main/fifa%20image.jpg?raw=true)
 
