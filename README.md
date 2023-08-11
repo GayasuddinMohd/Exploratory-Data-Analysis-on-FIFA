@@ -33,7 +33,7 @@ This repository is about EDA performed on FIFA dataset.
 * G. Chiellini is the best defender in the world.
 * De Gea has the best reflexes in the world.
 
-# Skills  
+# Technologies Used
 * Python
 * Numpy
 * Pandas
