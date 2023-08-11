@@ -16,6 +16,21 @@ Welcome to the Exploratory Data Analysis (EDA) project on FIFA data! In this rep
 This repository is about EDA performed on FIFA dataset.
    - It has a python notebook where all the coding has been done.
    - It also has the relevant datasets and files used for this analysis.
+     
+# Technologies Used
+* Python
+* Numpy
+* Pandas
+* Matplotlib
+* Seaborn
+* Plotly
+* Jupyter Notebok
+* Kaggle
+* Statistics
+
+# Dataset
+* You can download the dataset from the kaggle website.
+* https://www.kaggle.com/datasets/stefanoleone992/fifa-20-complete-player-dataset?select=players_20.csv
 
 # Summary
 * England has the most number of players.
@@ -31,22 +46,7 @@ This repository is about EDA performed on FIFA dataset.
 * L. Messi is the best dribbler in the world.
 * Cristiano Ronaldo is the best shooter in the world.
 * G. Chiellini is the best defender in the world.
-* De Gea has the best reflexes in the world.
-
-# Technologies Used
-* Python
-* Numpy
-* Pandas
-* Matplotlib
-* Seaborn
-* Plotly
-* Jupyter Notebok
-* Kaggle
-* Statistics
-
-# Dataset
-* You can download the dataset from the kaggle website.
-* https://www.kaggle.com/datasets/stefanoleone992/fifa-20-complete-player-dataset?select=players_20.csv
+* De Gea has the best reflexes in the world. 
 
 
 
