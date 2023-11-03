@@ -1,4 +1,4 @@
-![Image Alt Text](https://raw.githubusercontent.com/GayasuddinMohd/Exploratory-Data-Analysis-on-FIFA/main/Fifa%20Image.webp)
+![Image Alt Text](https://wallpapercave.com/uwp/uwp2338645.jpeg)
 
 # ❀  Football  ❀
 Football, known as soccer in some parts of the world, is a globally popular sport that originated in the 19th century and has since become one of the most widely played and watched games.
