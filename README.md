@@ -1,14 +1,5 @@
 ![Image Alt Text](https://wallpapercave.com/uwp/uwp2338645.jpeg)
 
-# ❀  Football  ❀
-Football, known as soccer in some parts of the world, is a globally popular sport that originated in the 19th century and has since become one of the most widely played and watched games.
-
-# ❀  FIFA  ❀ 
-FIFA, which stands for the Fédération Internationale de Football Association, is the international governing body for the sport of football (soccer). It is responsible for overseeing and promoting the development of football globally.
-
-# ❀  FIFA World Cup  ❀
-The FIFA World Cup is one of the most prestigious and widely watched international football (soccer) tournaments in the world. It brings together national teams from various countries to compete for the title of world champion.
-
 # ❀  Exploratory Data Analysis on FIFA  ❀
 Welcome to the Exploratory Data Analysis (EDA) project on FIFA data! In this repository, we dive into the fascinating world of football by analyzing historical data from the FIFA World Cup tournaments. Through data exploration and visualization, we aim to uncover insights, trends, and patterns that provide a deeper understanding of the sport's evolution and dynamics over the years.
 
